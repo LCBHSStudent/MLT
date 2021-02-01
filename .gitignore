@@ -12,7 +12,7 @@ config.log
 docs/html/*
 releases/*
 patches/*
-src/melt/melt.*
+src/melt/melt
 src/modules/lumas/luma
 src/modules/lumas/NTSC/*.pgm
 src/modules/lumas/PAL/*.pgm
